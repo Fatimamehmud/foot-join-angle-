@@ -12,3 +12,4 @@ Knee joint design
 
 and angle calculation
 
+![‏‏لقطة الشاشة (74)](https://user-images.githubusercontent.com/107954137/184954274-aab0f05e-8789-4991-8c9e-501f89c55935.png)
